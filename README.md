@@ -64,7 +64,7 @@ Eu sou o Leonado Fernando, tenho 25 anos Atualmente, faço programação por hob
     align="left" 
     alt="NodeJs" 
     title="NodeJs"
-    width="32px" 
+    width="30px" 
     style="padding-right: 10px;" 
    
             
