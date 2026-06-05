@@ -13,6 +13,7 @@ Eu sou o Leonado Fernando, tenho 25 anos Atualmente, faço programação por hob
             src="https://custom-icon-badges.demolab.com/github/stars/AzzuLGoD?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
+
     <a href="https://github.com/AzzuLGoD?tab=followers">
         <img 
             alt="Seguidores" 
@@ -20,6 +21,7 @@ Eu sou o Leonado Fernando, tenho 25 anos Atualmente, faço programação por hob
             src="https://custom-icon-badges.demolab.com/github/followers/AzzuLGoD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+
 </p>
 
 ---
@@ -62,7 +64,7 @@ Eu sou o Leonado Fernando, tenho 25 anos Atualmente, faço programação por hob
     align="left" 
     alt="NodeJs" 
     title="NodeJs"
-    width="30px" 
+    width="32px" 
     style="padding-right: 10px;" 
     src="https://devicons.io/devicons/icons/nodejs-icon.svg". 
 />
